@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SofeWare_firstWork_WordCount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SofeWare_firstWork_WordCount_jar</output-path>
+    <root id="archive" name="SofeWare_firstWork_WordCount.jar">
+      <element id="module-output" name="SofeWare_firstWork_WordCount" />
+    </root>
+  </artifact>
+</component>
